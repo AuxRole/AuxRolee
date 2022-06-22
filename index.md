@@ -5,8 +5,8 @@ mozesz mnie znalesc na [YouTube](https://www.youtube.com/channel/UC3S7xfBXLtj0FI
 
 ### kontakt
 
-📩auxrole@gmail.com (gmail)
-💻auxrole#0306    (discord)
+# 📩auxrole@gmail.com (gmail)
+# 💻auxrole#0306    (discord)
 
 
 ### Social Media
