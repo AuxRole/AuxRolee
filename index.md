@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Witamy na auxrole.github.io!
 
-You can use the [editor on GitHub](https://github.com/AuxRole/AuxRolee/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+mozesz mnie znalesc na [YouTube](https://www.youtube.com/channel/UC3S7xfBXLtj0FISVGBd9YBA) oraz na tiktoku: @auxrolee_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### kontakt
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+📩auxrole@gmail.com (gmail)
+💻auxrole#0306    (discord)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Social Media
 
-- Bulleted
-- List
+# TikTok @auxrolee_
+# youtube AuxRole
+# twitter AuxRole
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### informacje
 
-[Link](url) and ![Image](src)
-```
+# info o stronie 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+powstala 22.06.22r. przez [auxrole](https://www.youtube.com/channel/UC3S7xfBXLtj0FISVGBd9YBA)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AuxRole/AuxRolee/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### changelog strony
 
-### Support or Contact
+# update 1.0
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+stworzono strone, dodano social media oraz kontakt.
+
+
+
+
+
+
