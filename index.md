@@ -27,7 +27,7 @@ powstala 22.06.22r. przez [auxrole](https://www.youtube.com/channel/UC3S7xfBXLtj
 
 # update 1.0
 
-stworzono strone, dodano social media oraz kontakt.
+stworzono strone, dodano social media oraz kontakt
 
 
 
